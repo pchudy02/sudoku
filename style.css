@@ -1,0 +1,20 @@
+:root   {padding: 0px;
+}
+#board    {width: 100%;
+            border: 2px solid black;
+}
+table   {width: 100%;
+}
+td  {text-align: center;
+            width: 1%;
+}
+.outer  {border: 2px solid black;
+}
+.inner  {border: 1px solid black;
+}
+.inner:hover    {background-color: cornflowerblue;
+}
+input   {width: 100%;
+}
+.input_to_gen   {width: 25%;
+}
